@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 there </h1>
 
-![Front-End Developer](https://i.ibb.co/ckW1sXc/Dark-Chrome-Futuristic-Galaxy-Sci-Fi-Twitch-Banner.png)
+![Front-End Developer](https://i.ibb.co/LhF7zRx/Dark-Chrome-Futuristic-Galaxy-Sci-Fi-Twitch-Banner-1.png)
 
 <h3 align="center"> 👤 About Me :</h3>
 <p align="center">I am Tomor  Chandra Roy, a Third year Economics student at K.B.M college, Dinajpur. Actively seeing job opportunities. With a strong foundation in the Front-end developer. I am currently immersed in a dynamic E-Commerce project, enhancing my skills in HTML, CSS, JavaScript, react.js, node.js, express.js,  and database Mangodb. Currently I am honing my skills with a focus on learing next.js.  My goal is to leverage my expertise in web development to contribute to innovation projects and collaboration with forward-thinking teams.</p>
@@ -27,8 +27,36 @@
   
 <h2 align="left">🤷‍♂️ Latest Project :</h2>
 
-  <h4><a href="https://technology-and-electroni-de164.web.app">Live Link</h4>
+  <h3>Technology-And-Electronics</h3>
   
+  <h4><a href="https://technology-and-electroni-de164.web.app">Live Link</h4>
+
+  -  User can login.
+  -  User can add product by logging in.
+  -  Users can delete those products if they want.
+  -  User can view and update the details of that product.
+    
+
+  <h3 align="left">Online-Marketing</h3>
+  
+  <h4><a href="https://online-marketing-project-becef.web.app/">Live Link</h4>
+
+  -  Any user can sign up and add products online.
+  -  User can view the courses by filtering by category.
+  -  User can see the topics posted on My Job Posts.
+  -  Will see all the posts he has bid.
+
+  <h3>Polling and survey applications</h3>
+  
+  <h4><a href="https://surveys-project-b64bd.web.app/">Live Link</h4>
+    
+  -  Integrate payment functionality into this project.
+  -  Built a robust user management system, and an admin dashboard with roles.
+  -  Management As a key team member tasked with creating surveys, polling, analyzing results and user interaction.
+ 
+  
+
+
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
