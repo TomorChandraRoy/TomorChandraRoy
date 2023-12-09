@@ -27,49 +27,65 @@
   
 <h2 align="left">🤷‍♂️ Latest Project :</h2>
 
-  <h3>Technology-And-Electronics</h3>
+  <h3> 1 : Technology-And-Electronics</h3>
   
   <h4><a href="https://technology-and-electroni-de164.web.app">Live Link</h4>
-
+    
+  <h5>Features : </h5>
+  
   -  User can login.
   -  User can add product by logging in.
   -  Users can delete those products if they want.
   -  User can view and update the details of that product.
-    
 
-  <h3 align="left">Online-Marketing</h3>
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
+
+  <h3> 2 : Online-Marketing</h3>
   
   <h4><a href="https://online-marketing-project-becef.web.app/">Live Link</h4>
-
+    
+  <h5>Features : </h5>
+  
   -  Any user can sign up and add products online.
   -  User can view the courses by filtering by category.
   -  User can see the topics posted on My Job Posts.
   -  Will see all the posts he has bid.
 
-  <h3>Polling and survey applications</h3>
+ <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
+
+  <h3> 3 : Polling and survey applications</h3>
   
   <h4><a href="https://surveys-project-b64bd.web.app/">Live Link</h4>
     
+  <h5>Features : </h5>
+     
   -  Integrate payment functionality into this project.
   -  Built a robust user management system, and an admin dashboard with roles.
   -  Management As a key team member tasked with creating surveys, polling, analyzing results and user interaction.
  
-  
+  <h5>Technology:</h5>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,firebase,mongodb)](https://skillicons.dev)
 
 
-<h2 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://twitter.com/Tomor_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomor-chandra-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+
 </p>
 
- <h3 align="left"> Skills and Tools:</h3>
+ <h2 align="left"> Skills and Tools:</h2>
+ 
 <p align="left">
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,express,firebase,mongodb,postman,git,github,figma" /></a> 
 </p>
 
+<h2 align="left">Current GitHub Stats :</h2>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TomorChandraRoy&show_icons=true&locale=en&theme=tokyonight" alt="TomorChandraRoy" /></p>
 
