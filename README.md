@@ -3,7 +3,7 @@
 ![Front-End Developer](https://i.ibb.co/s6xmQ87/Dark-Chrome-Futuristic-Galaxy-Sci-Fi-Twitch-Banner-4.png)
 
 <h3 align="center"> 👤 About Me :</h3>
-<p align="center">I am Tomor  Chandra Roy, a Third year Economics student at K.B.M college, Dinajpur. Actively seeing job opportunities. With a strong foundation in the Front-end developer. I am currently immersed in a dynamic E-Commerce project, enhancing my skills in HTML, CSS, JavaScript, react.js, node.js, express.js,  and database Mangodb. Currently I am honing my skills with a focus on learing next.js.  My goal is to leverage my expertise in web development to contribute to innovation projects and collaboration with forward-thinking teams.</p>
+<p align="center">I'm Tomor  Chandra Roy, a Third year Economics student at K.B.M college, Dinajpur. Actively seeing job opportunities. With a strong foundation in the Front-end developer. I am currently immersed in a dynamic E-Commerce project, enhancing my skills in HTML, CSS, JavaScript, react.js, node.js, express.js,  and database Mangodb. Currently I am honing my skills with a focus on learing next.js.  My goal is to leverage my expertise in web development to contribute to innovation projects and collaboration with forward-thinking teams.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
