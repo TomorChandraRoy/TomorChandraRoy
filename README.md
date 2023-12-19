@@ -20,8 +20,6 @@
 - 💬 Ask me about Web-Development
 
 - ⚡ Fun fact **I am Funny**
-  
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/tomorchandraroy884/overview](https://app.netlify.com/teams/tomorchandraroy884/overview)
 
 - 📫 How to reach me **tomorchandraroy884@gmail.com**
   
