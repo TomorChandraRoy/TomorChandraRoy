@@ -1,11 +1,16 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tomor+Chandra+Roy....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<!-- IMAGE HEADER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=header" />
 
-![Front-End Developer](https://i.ibb.co/s6xmQ87/Dark-Chrome-Futuristic-Galaxy-Sci-Fi-Twitch-Banner-4.png)
+<br>
+<br>
+
+<!-- ## MY PRESENTATION --><!--https://readme-typing-svg.demolab.com/demo/-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=008000&center=true&vCenter=true&width=1024&lines=HELLO%2C+My+name+is+Tomor+Chandra+Roy;Front-End+DEVELOPER;MERN STACK+DEVELOPER;REACT JS+DEVELOPER;Software+DEVELOPER;" alt="Typing SVG" /></a>
+
+<br>
+<br>
+
 
 <h3 align="center"> 👤 About Me :</h3>
 <p align="center">I'm Tomor  Chandra Roy, a Third year Economics student at K.B.M college, Dinajpur. Actively seeing job opportunities. With a strong foundation in the Front-end developer. I am currently immersed in a dynamic E-Commerce project, enhancing my skills in HTML, CSS, JavaScript, react.js, node.js, express.js,  and database Mangodb. Currently I am honing my skills with a focus on learing next.js.  My goal is to leverage my expertise in web development to contribute to innovation projects and collaboration with forward-thinking teams.</p>
@@ -131,6 +136,11 @@
 
 </p>
 
+<!-- IMAGE FOOTER -->
+<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=footer" />
+<div align="center">
+  <img height="12px" title= "Visitors to my room" alt = "Visitor counter" src="https://profile-counter.glitch.me/{fiigueiredo}/count.svg" />
+</div>
 
 
 
