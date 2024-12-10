@@ -1,6 +1,6 @@
 
 <!-- IMAGE HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AAFF00&height=120&section=header" />
 
 <br>
 <br>
@@ -137,7 +137,7 @@
 </p>
 
 <!-- IMAGE FOOTER -->
-<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=ed76b4&height=120&section=footer" />
+<img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=AAFF00&height=120&section=footer" />
 <div align="center">
   <img height="12px" title= "Visitors to my room" alt = "Visitor counter" src="https://profile-counter.glitch.me/{fiigueiredo}/count.svg" />
 </div>
