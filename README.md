@@ -1,4 +1,9 @@
-<h1 align="left">Hi 👋 there </h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tomor+Chandra+Roy....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ![Front-End Developer](https://i.ibb.co/s6xmQ87/Dark-Chrome-Futuristic-Galaxy-Sci-Fi-Twitch-Banner-4.png)
 
