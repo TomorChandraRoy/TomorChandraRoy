@@ -102,11 +102,6 @@
 
 </p>
 
- <h2 align="left"> ❄ Skills and Tools:</h2>
- 
-<p align="left">
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,express,firebase,mongodb,postman,git,github,figma" /></a> 
-</p>
 
 <h2 align="left"> 🌡 Current GitHub Stats :</h2>
 
