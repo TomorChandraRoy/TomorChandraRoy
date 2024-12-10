@@ -46,6 +46,30 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
+<h2 align="center">⚡  Current GitHub Stats :⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TomorChandraRoy&&theme=tokyonight" alt="TomorChandraRoy" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=TomorChandraRoy&show_icons=true&locale=en&theme=tokyonight" alt="TomorChandraRoy"" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomorChandraRoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomorChandraRoy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
 
 
 <h2 align="left">🤷‍♂️ Latest Project :</h2>
@@ -103,13 +127,6 @@
 </p>
 
 
-<h2 align="left"> 🌡 Current GitHub Stats :</h2>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TomorChandraRoy&show_icons=true&locale=en&theme=tokyonight" alt="TomorChandraRoy" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomorChandraRoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TomorChandraRoy" />
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomorChandraRoy&&theme=tokyonight" alt="TomorChandraRoy" /></p>
 
 
 
