@@ -44,12 +44,12 @@
 
 
 ### 🔨 Languages and Tools:
-<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src="https://s10.aconvert.com/convert/p3r68-cdx67/asd1d-xmlv2.svg" alt="html" height="42px"/> </a> 
-<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://s10.aconvert.com/convert/p3r68-cdx67/arcqn-mk6bl.svg" alt="css" height="42px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src="https://i.ibb.co.com/p0Sdm0d/html-5.png" alt="html" height="42px"/> </a> 
+<a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img align="left" src="https://i.ibb.co.com/QfcXK8b/css-3.png" alt="css" height="42px"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://expressjs.com/" target="_blank"><img align="left" alt="express" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/a5ra1-syjac.svg" alt="express" height="42px"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="mongodb" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/ah6a8-q2l5a.svg" alt="express" height="42px"></a>
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="express" height ="42px" src="https://i.ibb.co.com/z8SVYbL/exprees.png" alt="express" height="42px"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="mongodb" height ="42px" src="https://i.ibb.co.com/26gKs6r/icons8-mongodb-48.png" alt="mongodb" height="42px"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/aclz8-xz38j.svg"></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/a44ar-lj1xl.jpg"></a>
