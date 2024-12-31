@@ -51,8 +51,8 @@
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="express" height ="42px" src="https://i.ibb.co.com/z8SVYbL/exprees.png" alt="express" height="42px"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="mongodb" height ="42px" src="https://i.ibb.co.com/26gKs6r/icons8-mongodb-48.png" alt="mongodb" height="42px"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/aclz8-xz38j.svg"></a>
-<a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/a44ar-lj1xl.jpg"></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height ="42px" src="https://i.ibb.co.com/5jgPj10/icons8-next-js-50.png"></a>
+<a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" height ="42px" src="https://i.ibb.co.com/RhmRqxc/icons8-redux-48.png"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="tailwindcss" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/az41r-x801c.svg"></a>
 <a href="https://vite.dev/" target="_blank"><img align="left" alt="vite" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/awlol-jbkfc.svg"></a>
 <a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="Npm" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/aeakb-vn9t6.svg"></a>
