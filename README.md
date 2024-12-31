@@ -55,9 +55,9 @@
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" height ="42px" src="https://i.ibb.co.com/RhmRqxc/icons8-redux-48.png"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="tailwindcss" height ="42px" src="https://i.ibb.co.com/cYgSjR4/icons8-tailwindcss-48.png"></a>
 <a href="https://vite.dev/" target="_blank"><img align="left" alt="vite" height ="42px" src="https://i.ibb.co.com/dj0gRdQ/icons8-vite-48.png"></a>
-<a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="Npm" height ="42px" src="https://s10.aconvert.com/convert/p3r68-cdx67/aeakb-vn9t6.svg"></a>
+<a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="Npm" height ="42px" src="https://i.ibb.co.com/KGrb4k2/icons8-npm-48.png"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://github.com/" target="_blank"> <img align="left" src="https://s10.aconvert.com/convert/p3r68-cdx67/aq4ke-y9app.svg" alt="github" height ="42px"/> </a>
+<a href="https://github.com/" target="_blank"> <img align="left" src="https://i.ibb.co.com/HFrsCp5/icons8-github-64.png" alt="github" height ="42px"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://s10.aconvert.com/convert/p3r68-cdx67/atxu5-zep0b.svg" alt="vscode" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
