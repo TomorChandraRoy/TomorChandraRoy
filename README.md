@@ -69,13 +69,13 @@
       <a href="https://github.com/TomorChandraRoy/TomorChandraRoy" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=TomorChandraRoy&theme=react&border=61dafb&hide_border=true" alt="TomorChandraRoy" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/TomorChandraRoy/TomorChandraRoy" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=TomorChandraRoy&show_icons=true&locale=en&theme=tokyonight" alt="TomorChandraRoy"" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/TomorChandraRoy/TomorChandraRoy">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomorChandraRoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
     </a>
   </div>
