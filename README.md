@@ -66,7 +66,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://git.io/streak-stats" title="GitHub Streak Stats">
+    <a href="https://git.io/streak-stats" title="TomorChandraRoy Streak Stats">
       <img src="https://streak-stats.demolab.com/?user=TomorChandraRoy&theme=monokai" alt="GitHub Streak Stats">
     </a>
     <a href="https://github.com/TomorChandraRoy/TomorChandraRoy" title="Go to Source">
